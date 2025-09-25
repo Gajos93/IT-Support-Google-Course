@@ -1,4 +1,4 @@
-# Course 1 – Module 2 Terms
+# 📚 Terminology – Module 2
 
 - **Binary system**: A base-2 numeral system using only 0s and 1s, the foundation of computer operations.  
 - **Motherboard**: The main circuit board that connects all computer components.  
@@ -10,4 +10,4 @@
 - **SSD (Solid State Drive)**: A faster storage device with no moving parts.  
 - **POST (Power-On Self Test)**: Diagnostic test run at startup to check hardware.  
 - **BIOS/UEFI**: Low-level software that initializes hardware before the OS loads.  
-- **File system**: The method and structure an OS uses to organize files and directories.  
+- **File system**: The method and structure an OS uses to organize files and directories.
