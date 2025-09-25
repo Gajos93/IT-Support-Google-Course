@@ -1,41 +1,30 @@
-📒 Notes – Module 3 (Course 1)
+# Course 1 – Module 3 Notes
 
-Main focus: Operating systems, virtualization, and command-line basics.
+## 🔑 Key Concepts
+- **Operating System (OS)**: manages hardware, software, and provides user interface.  
+- **Kernel**: OS core handling processes, memory, and hardware communication.  
+- **OS responsibilities**:  
+  - Process management.  
+  - Memory management.  
+  - File system management.  
+  - User interfaces (GUI or CLI).  
 
-Operating system roles:
+- **Virtualization**:  
+  - Software like VirtualBox allows multiple OSes on one physical machine.  
+  - **VM (Virtual Machine)** simulates a real computer.  
 
-Process management (scheduling, running tasks).
+- **Command-line tools**:  
+  - **CLI**: text-based interaction with the OS.  
+  - **PowerShell**: Windows-specific shell.  
+  - **Shell**: interprets text commands for the OS.  
 
-Memory management (allocate RAM, swap if needed).
+## 📝 Important Notes
+- **Networking basics**:  
+  - IP addresses identify devices.  
+  - DNS translates names → IP addresses.  
+  - ICMP (ping) tests connectivity.  
+- **System logs**: record system events for troubleshooting.  
+- **User management**: create/delete accounts and manage permissions.  
+- **Linux vs Windows vs macOS**: different OS families, but same fundamentals.  
 
-File system management.
 
-User interface (GUI or CLI).
-
-Linux vs Windows vs macOS: different distributions but similar fundamentals.
-
-Kernel: the OS core, manages hardware communication.
-
-Virtualization:
-
-VirtualBox, VMware create virtual machines (VMs).
-
-VMs allow multiple OSes on one physical machine.
-
-Command-line basics:
-
-Linux shell or Windows PowerShell/CLI.
-
-Commands: navigating directories, checking processes, testing network.
-
-Networking basics:
-
-IP addresses identify devices.
-
-DNS translates names → IP.
-
-ICMP (ping) checks connectivity.
-
-System logs: OS records events for troubleshooting.
-
-User management: creating, deleting, and assigning permissions.
