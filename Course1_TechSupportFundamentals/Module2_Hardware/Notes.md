@@ -1,27 +1,36 @@
-📒 Notes – Module 2 (Course 1)
+📒 Course 1 – Module 2 Notes
+🔑 Key Concepts
 
-Main focus: Computer hardware basics and operating systems.
+Hardware basics: input, output, storage, and processing devices.
 
-Hardware categories: input devices (keyboard, mouse), output devices (monitor, printer), storage devices (HDD, SSD), processing units (CPU, GPU).
+Binary system: all computer data and instructions are represented as 0s and 1s.
 
-Binary system: computers use 0s and 1s; everything is represented in binary.
+CPU & GPU: CPU executes instructions; GPU accelerates graphics and parallel tasks.
 
-Memory:
+Motherboard: connects CPU, RAM, storage, and peripherals.
 
-RAM = temporary, fast storage for active processes.
+RAM vs ROM:
 
-ROM = permanent instructions (e.g., BIOS).
+RAM: volatile, temporary memory for active processes.
 
-Storage: HDD (mechanical), SSD (faster, no moving parts).
+ROM: permanent memory storing essential instructions (e.g., BIOS).
 
-Motherboard: the main circuit board connecting CPU, memory, storage, and peripherals.
+Storage types:
 
-Power supply: converts AC from the wall into DC for the computer.
+HDD: mechanical, slower.
 
-Peripherals: devices you plug into your computer for extra functionality.
+SSD: no moving parts, faster.
 
-Operating systems: manage hardware and software, provide user interface.
+📝 Important Notes
 
-Boot process: POST → BIOS/UEFI → Bootloader → OS loads.
+POST: diagnostic test when powering on a computer.
 
-File systems: organize files into directories/folders.
+BIOS/UEFI: initializes hardware and starts the boot process.
+
+Boot process order: POST → BIOS/UEFI → Bootloader → Operating System.
+
+Power supply: converts electricity for the system.
+
+File systems: organize and manage files into directories.
+
+Peripherals: external devices (keyboard, mouse, monitor, printer).
