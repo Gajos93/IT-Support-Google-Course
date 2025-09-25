@@ -1,36 +1,28 @@
-📒 Course 1 – Module 2 Notes
-🔑 Key Concepts
+# Course 1 – Module 3 Notes
 
-Hardware basics: input, output, storage, and processing devices.
+## 🔑 Key Concepts
+- **Operating System (OS)**: manages hardware, software, and provides user interface.  
+- **Kernel**: OS core handling processes, memory, and hardware communication.  
+- **OS responsibilities**:  
+  - Process management.  
+  - Memory management.  
+  - File system management.  
+  - User interfaces (GUI or CLI).  
 
-Binary system: all computer data and instructions are represented as 0s and 1s.
+- **Virtualization**:  
+  - Software like VirtualBox allows multiple OSes on one physical machine.  
+  - **VM (Virtual Machine)** simulates a real computer.  
 
-CPU & GPU: CPU executes instructions; GPU accelerates graphics and parallel tasks.
+- **Command-line tools**:  
+  - **CLI**: text-based interaction with the OS.  
+  - **PowerShell**: Windows-specific shell.  
+  - **Shell**: interprets text commands for the OS.  
 
-Motherboard: connects CPU, RAM, storage, and peripherals.
-
-RAM vs ROM:
-
-RAM: volatile, temporary memory for active processes.
-
-ROM: permanent memory storing essential instructions (e.g., BIOS).
-
-Storage types:
-
-HDD: mechanical, slower.
-
-SSD: no moving parts, faster.
-
-📝 Important Notes
-
-POST: diagnostic test when powering on a computer.
-
-BIOS/UEFI: initializes hardware and starts the boot process.
-
-Boot process order: POST → BIOS/UEFI → Bootloader → Operating System.
-
-Power supply: converts electricity for the system.
-
-File systems: organize and manage files into directories.
-
-Peripherals: external devices (keyboard, mouse, monitor, printer).
+## 📝 Important Notes
+- **Networking basics**:  
+  - IP addresses identify devices.  
+  - DNS translates names → IP addresses.  
+  - ICMP (ping) tests connectivity.  
+- **System logs**: record system events for troubleshooting.  
+- **User management**: create/delete accounts and manage permissions.  
+- **Linux vs Windows vs macOS**: different OS families, but same fundamentals.  
