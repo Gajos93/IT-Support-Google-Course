@@ -1,4 +1,4 @@
-# Course 1 – Module 3 Terms
+# 📚 Terminology – Module 3
 
 - **Operating system (OS)**: Software that manages hardware, software, and user interaction.  
 - **Kernel**: The OS core that manages processes, memory, and hardware communication.  
