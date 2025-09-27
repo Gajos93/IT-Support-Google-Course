@@ -1,13 +1,40 @@
-# 📚 Terminology – Module 2
+# 📖 Course 1 – Module 2: Key Terms
 
-- **Binary system**: A base-2 numeral system using only 0s and 1s, the foundation of computer operations.  
-- **Motherboard**: The main circuit board that connects all computer components.  
-- **RAM (Random Access Memory)**: Temporary storage for data and processes currently in use.  
-- **ROM (Read-Only Memory)**: Permanent storage containing essential startup instructions.  
-- **CPU (Central Processing Unit)**: The "brain" of the computer that processes instructions.  
-- **GPU (Graphics Processing Unit)**: A processor specialized for handling graphics and parallel tasks.  
-- **HDD (Hard Disk Drive)**: A storage device using spinning platters and a mechanical arm.  
-- **SSD (Solid State Drive)**: A faster storage device with no moving parts.  
-- **POST (Power-On Self Test)**: Diagnostic test run at startup to check hardware.  
-- **BIOS/UEFI**: Low-level software that initializes hardware before the OS loads.  
+## 🔢 Core Concepts
+- **Binary System** ⚫⚪ – base-2 numeral system (0s and 1s), the foundation of computer operations.  
+- **Motherboard** 🔗 – the main circuit board connecting all computer components.  
+
+---
+
+## 💾 Memory
+- **RAM (Random Access Memory)** ⚡ – volatile, temporary storage for active data and processes.  
+- **ROM (Read-Only Memory)** 💾 – permanent memory storing essential startup instructions.  
+- **Cache Memory** ⚡📥 – very fast memory inside the CPU that speeds up data access.  
+
+---
+
+## ⚙️ Processors
+- **CPU (Central Processing Unit)** 🧠 – the "brain" of the computer that executes instructions.  
+- **GPU (Graphics Processing Unit)** 🎨 – specialized processor for graphics rendering and parallel tasks.  
+
+---
+
+## 💽 Storage
+- **HDD (Hard Disk Drive)** 📀 – mechanical storage using spinning platters and a read/write arm.  
+- **SSD (Solid State Drive)** ⚡ – faster storage with no moving parts.  
+- **File System** 📂 – the structure an OS uses to organize and manage files (e.g., NTFS, FAT32, ext4).  
+
+---
+
+## 🛠️ System Firmware & Startup
+- **POST (Power-On Self-Test)** 🧪 – diagnostic test run at startup to check hardware.  
+- **BIOS/UEFI** ⚙️ – low-level firmware that initializes hardware and loads the bootloader/OS.  
+
+---
+
+## 🔌 Other Key Components
+- **PSU (Power Supply Unit)** 🔋 – converts AC electricity into usable DC power for the system.  
+- **Buses** 🔀 – communication pathways between CPU, memory, and peripherals.  
+- **Peripherals** 🖱️⌨️🖨️ – external devices like keyboard, mouse, monitor, printer.  
+
 - **File system**: The method and structure an OS uses to organize files and directories.
