@@ -1,4 +1,4 @@
-# 📖 Course 1 – Module 3: Key Terms
+# 📖 Course 1 – Module 3: Operating Systems - Terminology
 
 ## 🖥️ Core OS Concepts
 - **Operating System (OS)** 🖥️ – software that manages hardware, software, and user interaction.  
