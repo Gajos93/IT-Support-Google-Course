@@ -1,4 +1,4 @@
-# 📖 Course 1 – Module 1: Key Terms
+# 📖 Course 1 – Module 1: Introduction to IT - Terminology
 
 ## 🧩 Core Concepts
 - **Abstraction** 🌀 – simplifying a complex system so it is easier to use.  
