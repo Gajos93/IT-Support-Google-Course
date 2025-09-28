@@ -1,4 +1,4 @@
-# 📖 Course 1 – Module 2: Key Terms
+# 📖 Course 1 – Module 2: Hardware - Terminology
 
 ## 🔢 Core Concepts
 - **Binary System** ⚫⚪ – base-2 numeral system (0s and 1s), the foundation of computer operations.  
