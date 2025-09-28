@@ -1,4 +1,4 @@
-# 📖 Networking – Terminology Cheat Sheet
+# 📖 Course 1 Module 4: Networking – Terminology 
 
 ## 🌐 Network Basics
 - **LAN (Local Area Network)** 🏠 – a small local network (home, office).  
