@@ -1,66 +1,80 @@
 # 💾 Course 1 – Module 5: Software
 
-## 🎯 Learning Objectives
-- Understand what software is and how it differs from hardware.  
-- Identify types of software: system, application, firmware.  
-- Learn basics of programming, scripting, and automation.  
-- Recognize the role of version control and software management.  
-
----
-
 ## 📝 Notes
 
 ### 🔹 What is Software?
-- **Software** 💿 – the set of instructions that tells hardware what to do.  
-- Unlike **hardware** (physical parts), software is **intangible**.  
+- **Software** 💿 – the intangible instructions that tell hardware what to do.  
+- It contrasts with **hardware** 🧩 (physical parts).  
 - Categories of software:  
   - **System Software** 🧰 – keeps the computer running (OS, utilities, drivers).  
-  - **Application Software** 📱 – tools users interact with directly (word processors, browsers).  
-  - **Firmware** 🧬 – built-in software stored in hardware (e.g., BIOS in ROM).  
+  - **Application Software** 📱 – programs used by end users (e.g., text editors, browsers, graphics tools).  
+  - **Firmware** 🧬 – permanent software stored in hardware components (e.g., BIOS in ROM).  
 
 ---
 
-### 🔹 Programming & Languages
-- **Programming** 👨‍💻 – writing instructions for computers.  
-- **Programming Languages** 🗣️ – special languages to create software (e.g., Python, C, Java).  
-- **Coding** ✍️ – the act of writing instructions in a language.  
+### 🔹 Programming Fundamentals
+- **Programming** 👨‍💻 – writing instructions that computers can execute.  
+- **Programming Languages** 🗣️ – structured languages (Python, C, Java) used to write code.  
+- **Coding** ✍️ – the act of translating logic into a programming language.  
 
-#### Types of languages
-- **Compiled Languages** 🏗️ – translated by a compiler into machine code before execution.  
-  - Examples: C, C++, Go.  
+#### Compiled vs Interpreted
+- **Compiled Languages** 🏗️ – code is converted into machine code by a compiler before execution.  
+  - Examples: C, C++.  
   - Pros: fast performance, optimized.  
-- **Interpreted Languages** 🎧 – executed line by line by an interpreter.  
+- **Interpreted Languages** 🎧 – code is translated line by line by an interpreter.  
   - Examples: Python, JavaScript, Bash.  
-  - Pros: easier to test, more flexible.  
-- **Assembly Language** 🔧 – low-level, closer to hardware instructions.  
+  - Pros: easier testing, flexibility.  
+- **Assembly Language** 🔧 – very low-level, human-readable instructions close to machine code.  
 
 ---
 
 ### 🔹 Scripting & Automation
-- **Scripts** ▶️ – short programs, often used for system tasks and automation.  
-- **Scripting** 🧪 – coding in scripting languages (e.g., Bash, PowerShell, Python).  
-- **Automation** 🤖 – reducing human effort by making processes run automatically.  
-- Common in IT Support: log collection, user account creation, system backups.  
+- **Script** ▶️ – small program executed by an interpreter.  
+- **Scripting** 🧪 – writing scripts in interpreted languages.  
+- **Automation** 🤖 – reducing human effort by automating repetitive tasks.  
+- Common in IT Support: backups, account management, log collection.  
 
 ---
 
-### 🔹 Software Lifecycle
-- **Software Bugs** 🐛 – errors that cause unexpected behavior.  
-- **Software Management** 🗂️ – installing, updating, patching, and tracking software.  
-- **Copyright** ©️ – protects software as original creative work.  
+### 🔹 Software Development & Management
+- **Software Bugs** 🐛 – errors that cause incorrect or unexpected behavior.  
+- **Software Management** 🗂️ – installation, updates, patching, and project/task tools.  
+- **Copyright** ©️ – legal protection for original software works.  
 
 ---
 
 ### 🔹 Collaboration & Version Control
-- **Git** 🌿 – version control system for tracking changes in code and documents.  
-- Allows multiple people to work on the same files safely.  
-- Used not only by developers but also by IT teams for config scripts, documentation, and runbooks.  
-- **`.exe` Files** 💼 – executable files in Windows (binary programs).  
+- **Git** 🌿 – distributed version control system for tracking and managing changes.  
+- Useful for developers and IT teams to manage scripts, configs, and documentation.  
+- **`.exe` Files** 💼 – Windows executable file format.  
+
+---
+
+## 📖 Key Terms
+
+- **Software** 💿 – programs and instructions for hardware.  
+- **System Software** 🧰 – keeps the system running (OS, utilities).  
+- **Application Software** 📱 – user-facing programs.  
+- **Firmware** 🧬 – software permanently embedded in hardware.  
+- **Programming** 👨‍💻 – writing instructions for a computer.  
+- **Programming Language** 🗣️ – language used to write software.  
+- **Coding** ✍️ – the process of writing code.  
+- **Compiled Language** 🏗️ – requires compilation into machine code before execution.  
+- **Interpreted Language** 🎧 – executed line by line by an interpreter.  
+- **Assembly Language** 🔧 – low-level code close to machine instructions.  
+- **Script** ▶️ – small program run by an interpreter.  
+- **Scripting** 🧪 – coding in scripting languages.  
+- **Automation** 🤖 – making processes run automatically.  
+- **Software Bug** 🐛 – error or flaw in code.  
+- **Software Management** 🗂️ – maintaining and tracking software.  
+- **Copyright** ©️ – legal protection for original works.  
+- **`.exe` File** 💼 – executable file format in Windows.  
+- **Git** 🌿 – version control system for tracking changes.  
 
 ---
 
 ## 💡 Insights
-- Software builds on hardware: **firmware → system software → applications**.  
-- Learning **compiled vs interpreted** differences helps understand performance and compatibility.  
-- **Scripting + automation** are critical skills in IT support to speed up work and reduce errors.  
-- **Version control (Git)** is essential for teamwork, rollback, and tracking changes.  
+- Software forms a layered stack: **firmware → system software → applications**.  
+- Understanding the difference between **compiled and interpreted languages** is crucial for troubleshooting.  
+- **Automation and scripting** save time and reduce errors in IT Support.  
+- **Version control systems** like Git are essential for teamwork, rollback, and safe configuration management.  
