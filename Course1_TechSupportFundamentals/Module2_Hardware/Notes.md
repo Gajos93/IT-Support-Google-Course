@@ -83,3 +83,4 @@
 - The **CPU, RAM, and storage** must be balanced for good performance.  
 - **Boot issues** often point to POST or BIOS/UEFI problems.  
 - Knowledge of **file systems** and **peripherals** is crucial in IT Support.  
+
