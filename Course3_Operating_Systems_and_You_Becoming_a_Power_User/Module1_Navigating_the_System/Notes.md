@@ -1,4 +1,4 @@
-# 🧭 Course 3 – Module 2: Navigating the System
+# 🧭 Course 3 – Module 1: Navigating the System
 
 ## 🧩 Overview
 In this module, we learn how to **navigate and interact with operating systems** using both the **Graphical User Interface (GUI)** and the **Command-Line Interface (CLI)**.  
