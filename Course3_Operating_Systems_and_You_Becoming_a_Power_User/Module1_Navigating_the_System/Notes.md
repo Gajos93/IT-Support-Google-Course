@@ -203,20 +203,20 @@ ls > files.txt
 cat file.txt | grep "error"
 
 
-🔹 **Combining Commands**
+# 🔹 Combining Commands
 
 | Operator | Description |
-|----------|-------------|
+|-----------|-------------|
 | `&&` | Run next command **only if previous succeeded** |
 | `;` | Run multiple commands **sequentially**, regardless of success |
 | `|` | **Pipe** output of one command into another |
 
 ---
 
-🧰 **Useful Shortcuts**
+## 🧰 Useful Shortcuts
 
 | Shortcut | Function |
-|----------|----------|
+|-----------|-----------|
 | `Ctrl + C` | Stop current command |
 | `Ctrl + L` | Clear screen |
 | `Ctrl + A` | Go to start of line |
@@ -226,7 +226,7 @@ cat file.txt | grep "error"
 
 ---
 
-📖 **Key Takeaways**
+## 📖 Key Takeaways
 
 - The **CLI** gives deeper control and flexibility than GUI.
 - **PowerShell and Bash** share similar concepts but use different syntax.
