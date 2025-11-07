@@ -208,7 +208,7 @@ cat file.txt | grep "error"
 |----------|-------------|
 | `&&` | Run next command **only if previous succeeded** |
 | `;` | Run multiple commands **sequentially**, regardless of success |
-| <code>&#1234;</code> | **Pipe** output of one command into another |
+| `` | `` | **Pipe** output of one command into another |
 
 ---
 
