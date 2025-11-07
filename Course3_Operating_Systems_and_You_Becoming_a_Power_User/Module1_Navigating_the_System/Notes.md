@@ -198,25 +198,24 @@ Environment variables store information about the system and user environment.
 - `|` → send output of one command to another (pipe).  
 
 **Examples:**
-```bash
+bash
 ls > files.txt
 cat file.txt | grep "error"
 
-
-# 🔹 Combining Commands
+### Combining Commands
 
 | Operator | Description |
-|-----------|-------------|
+|----------|-------------|
 | `&&` | Run next command **only if previous succeeded** |
 | `;` | Run multiple commands **sequentially**, regardless of success |
 | `|` | **Pipe** output of one command into another |
 
 ---
 
-## 🧰 Useful Shortcuts
+### Useful Shortcuts
 
 | Shortcut | Function |
-|-----------|-----------|
+|----------|-----------|
 | `Ctrl + C` | Stop current command |
 | `Ctrl + L` | Clear screen |
 | `Ctrl + A` | Go to start of line |
@@ -226,10 +225,10 @@ cat file.txt | grep "error"
 
 ---
 
-## 📖 Key Takeaways
+### Key Takeaways
 
-- The **CLI** gives deeper control and flexibility than GUI.
-- **PowerShell and Bash** share similar concepts but use different syntax.
-- Understanding **paths, permissions, and environment variables** is essential for any IT Support role.
-- Practice using both systems — mastering CLI is a defining skill of a power user.
+- The **CLI** gives deeper control and flexibility than GUI.  
+- **PowerShell and Bash** share similar concepts but use different syntax.  
+- Understanding **paths, permissions, and environment variables** is essential for any IT Support role.  
+- Practice using both systems — mastering CLI is a defining skill of a power user.  
 - Combine **GUI and CLI tools** to work faster and troubleshoot more effectively.
